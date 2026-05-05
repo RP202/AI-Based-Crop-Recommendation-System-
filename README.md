@@ -82,15 +82,16 @@ Crop Recommendation Dataset (Kaggle)
 8. Prediction System using user input
 
 ---
+## Example Input
+--
 
-## ▶️ How to Run
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-python your_script_name.py
-```
-
----
+Nitrogen (N): 90  
+Phosphorus (P): 42  
+Potassium (K): 43  
+Temperature: 20.8  
+Humidity: 82  
+pH: 6.5  
+Rainfall: 202
 
 ## 🎯 Example Output
 
